@@ -1,0 +1,742 @@
+[
+  {
+    "_createdAt": "",
+    "_id": "grammarModule_1",
+    "_originalId": "grammarModule_1",
+    "_rev": "",
+    "_type": "grammarModule",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarModuleId": "1",
+    "grammarSections": [
+      {
+        "_key": "",
+        "_ref": "grammarSection_1",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarSection_2",
+        "_type": "reference"
+      }
+    ],
+    "localizedNameField": {
+      "_type": "localeGrammarModuleString",
+      "translation_grammarModule_EN": "Make your first sentence"
+    },
+    "name": "KO-1",
+    "sort": 1,
+    "status": "productionReady"
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarSection_1",
+    "_originalId": "grammarSection_1",
+    "_rev": "",
+    "_type": "grammarSection",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "coverImage": {
+      "_ref": "term_7262",
+      "_type": "reference"
+    },
+    "grammarSectionId": "1",
+    "localizedNameField": {
+      "_type": "localeGrammarSectionString",
+      "translation_grammarSection_EN": "Korean 1a"
+    },
+    "localizedRuleAnswerField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_EN": "role in the sentence"
+    },
+    "localizedRuleContrastSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_KO": "gae",
+      "translation_grammarLesson_EN": "the dog"
+    },
+    "localizedRuleExampleSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_KO": "Gae_neun_ yeogi isseoyo.",
+      "translation_grammarLesson_EN": "The dog is here."
+    },
+    "localizedRuleField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_EN": "In Korean, nouns take endings that shows their role in the sentence.\nOne very common ending is the topic marker that can be thought of as 'as for ...'.\n\nHere it literally means 'as for the dog, it is here'.\n\nAnd it's easy to form:\n- If the noun ends in a consonant, add _-eun_\n- If it ends in a vowel, add _-neun_\n\n(sometimes the consonant changes a bit like 'p' becoming 'b', don't worry, it'll come naturally)"
+    },
+    "localizedRuleQuestionField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_EN": "Why do you think an extra _-neun_ is added to _gae_?"
+    },
+    "name": "KO-1a",
+    "phrasesReference": [
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_1",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_2",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_3",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_4",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_5",
+        "_type": "reference"
+      }
+    ],
+    "status": "productionReady",
+    "topicReference": {
+      "_ref": "",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_1",
+    "_originalId": "grammarPhrase_1",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "1",
+    "grammarPhraseIllustration": {
+      "_ref": "term_10",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P1.wav"
+        }
+      },
+      "translation_AUDIO_WA_KO": "dosi, keoyo, jip, jibeun",
+      "translation_MC_2_KO": "dosi",
+      "translation_phrase_KO": "dosineun| yeogi| isseoyo.",
+      "translation_phrase_EN": "the city is here."
+    },
+    "name": "KO-1-1a-phrase_1",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_2",
+    "_originalId": "grammarPhrase_2",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "2",
+    "grammarPhraseIllustration": {
+      "_ref": "term_20",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P2.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_KO": "jip, dosineun, dosi, chaegeun",
+      "translation_LL_WA_EN": "here, book",
+      "translation_phrase_KO": "[jibeun] keoyo.",
+      "translation_phrase_EN": "the house is big."
+    },
+    "name": "KO-1-1a-phrase_2",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_3",
+    "_originalId": "grammarPhrase_3",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "3",
+    "grammarPhraseIllustration": {
+      "_ref": "term_30",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P3.wav"
+        }
+      },
+      "translation_LL_WA_EN": "city, big, dog",
+      "translation_MC_2_KO": "jibeun yeogi isseoyo.",
+      "translation_UI_FIB_WORDS_KO": "chaek, gae, gaeneun",
+      "translation_phrase_KO": "[chaegeun] yeogi isseoyo.",
+      "translation_phrase_EN": "the book is here."
+    },
+    "name": "KO-1-1a-phrase_3",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_4",
+    "_originalId": "grammarPhrase_4",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "4",
+    "grammarPhraseIllustration": {
+      "_ref": "term_40",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P4.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_KO": "gaeneun, yeogi",
+      "translation_UI_FIB_WORDS_KO": "dosi, jibeun, chaegeun",
+      "translation_UI_WA_KO": "dosi, jibeun, chaegeun",
+      "translation_phrase_KO": "[dosineun]| keoyo.",
+      "translation_phrase_EN": "the city is big."
+    },
+    "name": "KO-1-1a-phrase_4",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_5",
+    "_originalId": "grammarPhrase_5",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "5",
+    "grammarPhraseIllustration": {
+      "_ref": "term_50",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P5.wav",
+          "_type": "reference"
+        }
+      },
+      "translation_AUDIO_WA_KO": "dosineun, chaegeun",
+      "translation_UI_FIB_WORDS_KO": "gae, chaek, chaegeun",
+      "translation_UI_WA_KO": "dosineun, chaegeun",
+      "translation_phrase_KO": "[gaeneun]| keoyo?",
+      "translation_phrase_EN": "is the dog big?"
+    },
+    "name": "KO-1-1a-phrase_5",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarSection_2",
+    "_originalId": "grammarSection_2",
+    "_rev": "",
+    "_type": "grammarSection",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "coverImage": {
+      "_ref": "term_7262",
+      "_type": "reference"
+    },
+    "grammarSectionId": "2",
+    "localizedNameField": {
+      "_type": "localeGrammarSectionString",
+      "translation_grammarSection_EN": "Korean 1b"
+    },
+    "localizedRuleAnswerField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_EN": "way the word ends"
+    },
+    "localizedRuleContrastSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_KO": "Jeoneun seonsaengnim_ieyo_.",
+      "translation_grammarLesson_EN": "I _am_ a teacher."
+    },
+    "localizedRuleExampleSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_KO": "Jeoneun uisa_yeyo_.",
+      "translation_grammarLesson_EN": "I _am_ a doctor."
+    },
+    "localizedRuleField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_EN": "To say 'I am ...', 'you are ...' followed by a noun like 'teacher', you add the verb 'to be' at the end of that noun.\n\n- If it ends with a consonant, add _-ieyo_\n- If it ends with a vowel, add _-yeyo_\n\nNote that _-yeyo_ is actually pronounced _-eyo_.\nAs we saw before, you add _-(n)eun_ to 'I', 'you', because it's the topic of the sentence."
+    },
+    "localizedRuleQuestionField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_EN": "Why do you think _-ieyo_ and _-yeyo_ are different?"
+    },
+    "name": "-1a",
+    "phrasesReference": [
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_1",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_2",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_3",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_4",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_5",
+        "_type": "reference"
+      }
+    ],
+    "status": "productionReady",
+    "topicReference": {
+      "_ref": "",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_1",
+    "_originalId": "grammarPhrase_1",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "1",
+    "grammarPhraseIllustration": {
+      "_ref": "term_10",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P1.wav"
+        }
+      },
+      "translation_AUDIO_WA_KO": "geunyeo, haksaeng",
+      "translation_MC_2_KO": "",
+      "translation_phrase_KO": "geunyeoneun| haksaengieyo.",
+      "translation_phrase_EN": "she's a student."
+    },
+    "name": "KO-1-1a-phrase_1",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_2",
+    "_originalId": "grammarPhrase_2",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "2",
+    "grammarPhraseIllustration": {
+      "_ref": "term_20",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P2.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_KO": "yeyo,eun,neun",
+      "translation_LL_WA_EN": "student, he's",
+      "translation_phrase_KO": "jeoneun gwan'gwanggaeg[ieyo].",
+      "translation_phrase_EN": ""
+    },
+    "name": "KO-1-1a-phrase_2",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_3",
+    "_originalId": "grammarPhrase_3",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "3",
+    "grammarPhraseIllustration": {
+      "_ref": "term_30",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P3.wav"
+        }
+      },
+      "translation_LL_WA_EN": "tourist, I'm, she's",
+      "translation_MC_2_KO": "geuneun gwan'gwanggaegieyo.",
+      "translation_UI_FIB_WORDS_KO": "yeyo,eun,neun",
+      "translation_phrase_KO": "geuneun gyeongchalgwan[ieyo].",
+      "translation_phrase_EN": "he's a policeman"
+    },
+    "name": "KO-1-1a-phrase_3",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_4",
+    "_originalId": "grammarPhrase_4",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "4",
+    "grammarPhraseIllustration": {
+      "_ref": "term_40",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P4.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_KO": "ieyo,neun,eun",
+      "translation_UI_FIB_WORDS_KO": "ieyo,neun,eun",
+      "translation_UI_WA_KO": "geunyeoneun,geu,uisayeyo",
+      "translation_phrase_KO": "geuneun| weiteo[yeyo].",
+      "translation_phrase_EN": "he's a waiter."
+    },
+    "name": "KO-1-1a-phrase_4",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_5",
+    "_originalId": "grammarPhrase_5",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "KO",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "KO"
+      }
+    ],
+    "grammarPhraseId": "5",
+    "grammarPhraseIllustration": {
+      "_ref": "term_50",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_KO": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P5.wav",
+          "_type": "reference"
+        }
+      },
+      "translation_AUDIO_WA_KO": "geunyeoneun,uisa,haksaeng",
+      "translation_UI_FIB_WORDS_KO": "ieyo,neun,eun",
+      "translation_UI_WA_KO": "geunyeoneun,uisa,haksaeng",
+      "translation_phrase_KO": "geujjogeun| uisa[yeyo]?",
+      "translation_phrase_EN": "are you a doctor?"
+    },
+    "name": "KO-1-1a-phrase_5",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  }
+]
