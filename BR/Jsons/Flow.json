@@ -1,0 +1,77 @@
+[
+  {
+    "gameplay": "MC2",
+    "phrase": 1,
+    "index": 0
+  },
+  {
+    "gameplay": "AUDIO-FIB-WORDS",
+    "phrase": 2,
+    "index": 1
+  },
+  {
+    "gameplay": "LL-WA",
+    "phrase": 1,
+    "index": 2
+  },
+  {
+    "gameplay": "MC2",
+    "phrase": 3,
+    "index": 3
+  },
+  {
+    "gameplay": "LL-WA",
+    "phrase": 2,
+    "index": 4
+  },
+  {
+    "gameplay": "AUDIO-FIB-WORDS",
+    "phrase": 4,
+    "index": 5
+  },
+  {
+    "gameplay": "LL-WA",
+    "phrase": 3,
+    "index": 6
+  },
+  {
+    "gameplay": "AUDIO-WA",
+    "phrase": 1,
+    "index": 7
+  },
+  {
+    "gameplay": "UI-FIB-WORDS",
+    "phrase": 4,
+    "index": 8
+  },
+  {
+    "gameplay": "AUDIO-WA",
+    "phrase": 5,
+    "index": 9
+  },
+  {
+    "gameplay": "UI-FIB-WORDS",
+    "phrase": 3,
+    "index": 10
+  },
+  {
+    "gameplay": "UI-FIB-WORDS",
+    "phrase": 5,
+    "index": 11
+  },
+  {
+    "gameplay": "UI-WA",
+    "phrase": 4,
+    "index": 12
+  },
+  {
+    "gameplay": "AUDIO-FIB-WORDS",
+    "phrase": 2,
+    "index": 13
+  },
+  {
+    "gameplay": "UI-WA",
+    "phrase": 5,
+    "index": 14
+  }
+]
