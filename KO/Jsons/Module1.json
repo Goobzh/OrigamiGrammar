@@ -75,7 +75,7 @@
     },
     "localizedRuleField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_UIL": "In Korean, nouns take endings that shows their role in the sentence.|One very common ending is the topic marker that can be thought of as 'as for ...'.||Here it literally means 'as for the dog, it is here'.||And it's easy to form:|- If the noun ends in a consonant, add _-eun_|- If it ends in a vowel, add _-neun_||(sometimes the consonant changes a bit like 'p' becoming 'b', don't worry, it'll come naturally)"
+      "translation_grammarLesson_UIL": "In Korean, nouns take endings that shows their role in the sentence.|One very common ending is the topic marker that can be thought of as 'as for ...'.:|- If the noun ends in a consonant, add _-eun_|- If it ends in a vowel, add _-neun_|(sometimes the consonant changes a bit like 'p' becoming 'b', don't worry, it'll come naturally)"
     },
     "localizedRuleQuestionField": {
       "_type": "localeGrammarLessonString",
@@ -418,16 +418,16 @@
     "localizedRuleContrastSentenceField": {
       "_type": "localeGrammarLessonString",
       "translation_grammarLesson_LL": "Jeoneun uisa_yeyo_.",
-      "translation_grammarLesson_UIL": "I _am_ a doctor."
+      "translation_grammarLesson_UIL": "I am a doctor."
     },
     "localizedRuleExampleSentenceField": {
       "_type": "localeGrammarLessonString",
       "translation_grammarLesson_LL": "Jeoneun seonsaengnim_ieyo_.",
-      "translation_grammarLesson_UIL": "I _am_ a teacher."
+      "translation_grammarLesson_UIL": "I am a teacher."
     },
     "localizedRuleField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_UIL": "To say 'I am ...', 'you are ...' followed by a noun like 'teacher', you add the verb 'to be' at the end of that noun.||- If it ends with a consonant, add _-ieyo_|- If it ends with a vowel, add _-yeyo_||Note that _-yeyo_ is actually pronounced _-eyo_.|As we saw before, you add _-(n)eun_ to 'I', 'you', because it's the topic of the sentence."
+      "translation_grammarLesson_UIL": "To say 'I am ...', 'you are ...' followed by a noun like 'teacher', you add the verb 'to be' at the end of that noun:|- If it ends with a consonant, add _-ieyo_|- If it ends with a vowel, add _-yeyo_||Note that _-yeyo_ is actually pronounced _-eyo_.|As we saw before, you add _-(n)eun_ to 'I', 'you', because it's the topic of the sentence."
     },
     "localizedRuleQuestionField": {
       "_type": "localeGrammarLessonString",
