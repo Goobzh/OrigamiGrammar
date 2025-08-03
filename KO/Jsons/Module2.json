@@ -8,10 +8,10 @@
     "_updatedAt": "",
     "availableLanguages": [
       {
-        "_key": "LL",
+        "_key": "KO",
         "_type": "tag",
         "label": "Korean",
-        "value": "LL"
+        "value": "KO"
       }
     ],
     "grammarModuleId": "2",
