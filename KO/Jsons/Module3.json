@@ -1,0 +1,742 @@
+[
+  {
+    "_createdAt": "",
+    "_id": "grammarModule_2",
+    "_originalId": "grammarModule_2",
+    "_rev": "",
+    "_type": "grammarModule",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarModuleId": "2",
+    "grammarSections": [
+      {
+        "_key": "",
+        "_ref": "grammarSection_1",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarSection_2",
+        "_type": "reference"
+      }
+    ],
+    "localizedNameField": {
+      "_type": "localeGrammarModuleString",
+      "translation_grammarModule_UIL": "Make your first sentence"
+    },
+    "name": "LL-1",
+    "sort": 1,
+    "status": "productionReady"
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarSection_1",
+    "_originalId": "grammarSection_1",
+    "_rev": "",
+    "_type": "grammarSection",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "coverImage": {
+      "_ref": "term_7262",
+      "_type": "reference"
+    },
+    "grammarSectionId": "1",
+    "localizedNameField": {
+      "_type": "localeGrammarSectionString",
+      "translation_grammarSection_UIL": "What there is."
+    },
+    "localizedRuleAnswerField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "way the word ends"
+    },
+    "localizedRuleContrastSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_LL": "Jib_i_ isseoyo.",
+      "translation_grammarLesson_UIL": "There is a house."
+    },
+    "localizedRuleExampleSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_LL": "Gae_ga_ isseoyo.",
+      "translation_grammarLesson_UIL": "There is a dog."
+    },
+    "localizedRuleField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "We have seen that _isseoyo_ means 'is somewhere', but this also means 'there is/are something'.|When you say 'there is X', X takes the subject ending:|- if it ends in a vowel, add _-ga_|- if it ends in a consonant, add _-i_"
+    },
+    "localizedRuleQuestionField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "Why do you think _gae_ and _jib_ have different endings?"
+    },
+    "name": "LL-3A",
+    "phrasesReference": [
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_1",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_2",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_3",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_4",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_5",
+        "_type": "reference"
+      }
+    ],
+    "status": "productionReady",
+    "topicReference": {
+      "_ref": "",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_1",
+    "_originalId": "grammarPhrase_1",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "1",
+    "grammarPhraseIllustration": {
+      "_ref": "term_10",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3A-P1.wav"
+        }
+      },
+      "translation_AUDIO_WA_LL": "munjega,jibi,matjip",
+      "translation_MC_2_LL": "yeogie munjega isseoyo.",
+      "translation_phrase_LL": "yeogie| matjibi| isseoyo.",
+      "translation_phrase_UIL": "there is a good restaurant here."
+    },
+    "name": "LL-1-3A-phrase_1",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_2",
+    "_originalId": "grammarPhrase_2",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "2",
+    "grammarPhraseIllustration": {
+      "_ref": "term_20",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3A-P2.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_LL": "suljip,matjip,jeongwoni",
+      "translation_LL_WA_UIL": "restaurant,house",
+      "translation_phrase_LL": "i georie sae [suljibi] isseoyo.",
+      "translation_phrase_UIL": "there is a new pub on this street."
+    },
+    "name": "LL-1-3A-phrase_2",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_3",
+    "_originalId": "grammarPhrase_3",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "3",
+    "grammarPhraseIllustration": {
+      "_ref": "term_30",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3A-P3.wav"
+        }
+      },
+      "translation_LL_WA_UIL": "big,restaurant,is",
+      "translation_MC_2_LL": "munjeneun keoyo.",
+      "translation_UI_FIB_WORDS_LL": "i,eun",
+      "translation_phrase_LL": "munje[ga] isseoyo.",
+      "translation_phrase_UIL": "there is a problem."
+    },
+    "name": "LL-1-3A-phrase_3",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_4",
+    "_originalId": "grammarPhrase_4",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "4",
+    "grammarPhraseIllustration": {
+      "_ref": "term_40",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3A-P4.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_LL": "jeongwon,hyudaepon,hyudaeponi",
+      "translation_UI_FIB_WORDS_LL": "jeongwon,hyudaepon,hyudaeponi",
+      "translation_UI_WA_LL": "jeongwon,hyudaeponeun,keoyo",
+      "translation_phrase_LL": "yeogie [jeongwoni] isseoyo?",
+      "translation_phrase_UIL": "is there a garden here?"
+    },
+    "name": "LL-1-3A-phrase_4",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_5",
+    "_originalId": "grammarPhrase_5",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "5",
+    "grammarPhraseIllustration": {
+      "_ref": "term_50",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3A-P5.wav",
+          "_type": "reference"
+        }
+      },
+      "translation_AUDIO_WA_LL": "uisa,dallyeoyo,ilhaeyo",
+      "translation_UI_FIB_WORDS_LL": "i,eun,ieyo,yeyo",
+      "translation_UI_WA_LL": "uisa,dallyeoyo,ilhaeyo",
+      "translation_phrase_LL": "jeogie| uisa[ga]| isseoyo.",
+      "translation_phrase_UIL": ""
+    },
+    "name": "LL-1-3A-phrase_5",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarSection_2",
+    "_originalId": "grammarSection_2",
+    "_rev": "",
+    "_type": "grammarSection",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "coverImage": {
+      "_ref": "term_7262",
+      "_type": "reference"
+    },
+    "grammarSectionId": "2",
+    "localizedNameField": {
+      "_type": "localeGrammarSectionString",
+      "translation_grammarSection_UIL": ""
+    },
+    "localizedRuleAnswerField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "negation"
+    },
+    "localizedRuleContrastSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_LL": "jeoneun ilhareo _an_ gayo.",
+      "translation_grammarLesson_UIL": "I don't go to work."
+    },
+    "localizedRuleExampleSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_LL": "jeoneun ilhareo gayo.",
+      "translation_grammarLesson_UIL": "I go to work."
+    },
+    "localizedRuleField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "To say you 'don't do' something, look at the end of the verb. If it doesn't end in _-haeyo_, you just need to add _an_ before the verb.|We'll look at the _-haeyo_ verbs soon!"
+    },
+    "localizedRuleQuestionField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "Why do you think there is an _an_ in the second sentence?"
+    },
+    "name": "-3A",
+    "phrasesReference": [
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_6",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_7",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_8",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_9",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_10",
+        "_type": "reference"
+      }
+    ],
+    "status": "productionReady",
+    "topicReference": {
+      "_ref": "",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_6",
+    "_originalId": "grammarPhrase_6",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "1",
+    "grammarPhraseIllustration": {
+      "_ref": "term_10",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3B-P1.wav"
+        }
+      },
+      "translation_AUDIO_WA_LL": "maeil",
+      "translation_MC_2_LL": "jeoneun gogi meogeoyo.",
+      "translation_phrase_LL": "jeoneun| gogi| an| meogeoyo.",
+      "translation_phrase_UIL": "I don’t eat meat."
+    },
+    "name": "LL-1-3B-phrase_1",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_7",
+    "_originalId": "grammarPhrase_7",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "2",
+    "grammarPhraseIllustration": {
+      "_ref": "term_20",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3B-P2.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_LL": "chyeoyo",
+      "translation_LL_WA_UIL": "runs,every,day",
+      "translation_phrase_LL": "geunyeoneun gongwoneseo [an| dallyeoyo].",
+      "translation_phrase_UIL": "she doesn’t run in the park."
+    },
+    "name": "LL-1-3B-phrase_2",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_8",
+    "_originalId": "grammarPhrase_8",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "3",
+    "grammarPhraseIllustration": {
+      "_ref": "term_30",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3B-P3.wav"
+        }
+      },
+      "translation_LL_WA_UIL": "doesn't",
+      "translation_MC_2_LL": "geuneun maeil piano an chyeoyo.",
+      "translation_UI_FIB_WORDS_LL": "an chyeoyo,jayo",
+      "translation_phrase_LL": "geuneun maeil piano [chyeoyo].",
+      "translation_phrase_UIL": "he plays the piano every day."
+    },
+    "name": "LL-1-3B-phrase_3",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_9",
+    "_originalId": "grammarPhrase_9",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "4",
+    "grammarPhraseIllustration": {
+      "_ref": "term_40",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3B-P4.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_LL": "chyeoyo,masyeoyo",
+      "translation_UI_FIB_WORDS_LL": "chyeoyo,masyeoyo",
+      "translation_UI_WA_LL": "chyeoyo,masyeoyo",
+      "translation_phrase_LL": "jeoneun jal [an| jayo].",
+      "translation_phrase_UIL": "I don’t sleep well."
+    },
+    "name": "LL-1-3B-phrase_4",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_10",
+    "_originalId": "grammarPhrase_10",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Korean",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "5",
+    "grammarPhraseIllustration": {
+      "_ref": "term_50",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "3B-P5.wav",
+          "_type": "reference"
+        }
+      },
+      "translation_AUDIO_WA_LL": "an meogeoyo",
+      "translation_UI_FIB_WORDS_LL": "meogeoyo",
+      "translation_UI_WA_LL": "maeil, meogeoyo",
+      "translation_phrase_LL": "jeoneun| keopi| [an| masyeoyo].",
+      "translation_phrase_UIL": "I don’t drink coffee."
+    },
+    "name": "LL-1-3B-phrase_5",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  }
+]
