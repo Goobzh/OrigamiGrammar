@@ -65,12 +65,12 @@
     },
     "localizedRuleContrastSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "jeoneun han'gugeoreul gongbu _an_ haeyo.",
+      "translation_grammarLesson_LL": "Jeoneun han'gugeoreul gongbu _an_ haeyo.",
       "translation_grammarLesson_UIL": "I don't study Korean."
     },
     "localizedRuleExampleSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "jeoneun han'gugeoreul gongbuhaeyo.",
+      "translation_grammarLesson_LL": "Jeoneun han'gugeoreul gongbuhaeyo.",
       "translation_grammarLesson_UIL": "I study Korean."
     },
     "localizedRuleField": {

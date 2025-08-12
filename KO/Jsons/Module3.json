@@ -417,12 +417,12 @@
     },
     "localizedRuleContrastSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "jeoneun ilhareo _an_ gayo.",
+      "translation_grammarLesson_LL": "Jeoneun ilhareo _an_ gayo.",
       "translation_grammarLesson_UIL": "I don't go to work."
     },
     "localizedRuleExampleSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "jeoneun ilhareo gayo.",
+      "translation_grammarLesson_LL": "Jeoneun ilhareo gayo.",
       "translation_grammarLesson_UIL": "I go to work."
     },
     "localizedRuleField": {
