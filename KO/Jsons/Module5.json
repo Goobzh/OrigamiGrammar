@@ -29,7 +29,7 @@
     ],
     "localizedNameField": {
       "_type": "localeGrammarModuleString",
-      "translation_grammarModule_UIL": ""
+      "translation_grammarModule_UIL": "What's missing"
     },
     "name": "LL-1",
     "sort": 1,
