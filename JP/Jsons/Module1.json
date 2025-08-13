@@ -1,0 +1,742 @@
+[
+  {
+    "_createdAt": "",
+    "_id": "grammarModule_1",
+    "_originalId": "grammarModule_1",
+    "_rev": "",
+    "_type": "grammarModule",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarModuleId": "1",
+    "grammarSections": [
+      {
+        "_key": "",
+        "_ref": "grammarSection_1",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarSection_2",
+        "_type": "reference"
+      }
+    ],
+    "localizedNameField": {
+      "_type": "localeGrammarModuleString",
+      "translation_grammarModule_UIL": "Make your first sentence"
+    },
+    "name": "LL-1",
+    "sort": 1,
+    "status": "productionReady"
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarSection_1",
+    "_originalId": "grammarSection_1",
+    "_rev": "",
+    "_type": "grammarSection",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "coverImage": {
+      "_ref": "term_7262",
+      "_type": "reference"
+    },
+    "grammarSectionId": "1",
+    "localizedNameField": {
+      "_type": "localeGrammarSectionString",
+      "translation_grammarSection_UIL": "Say what a person is"
+    },
+    "localizedRuleAnswerField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "role in the sentence"
+    },
+    "localizedRuleContrastSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_LL": "kare _wa_ gakusei _desu_.",
+      "translation_grammarLesson_UIL": "he's a student."
+    },
+    "localizedRuleExampleSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_LL": "gakusei",
+      "translation_grammarLesson_UIL": "student"
+    },
+    "localizedRuleField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "In Japanese, you start your sentence with your main topic: the 'what' or 'who' you'll be talking about. You put _wa_ after it to mark it - words like these are called particles.|Next, you make your statement and put _desu_ after. This makes the sentence polite and acts like the verb 'to be' (am, is, are)."
+    },
+    "localizedRuleQuestionField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "Why do you think 'wa' is added after kare?"
+    },
+    "name": "LL-1a",
+    "phrasesReference": [
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_1",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_2",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_3",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_4",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_5",
+        "_type": "reference"
+      }
+    ],
+    "status": "productionReady",
+    "topicReference": {
+      "_ref": "",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_1",
+    "_originalId": "grammarPhrase_1",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "1",
+    "grammarPhraseIllustration": {
+      "_ref": "term_10",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P1.wav"
+        }
+      },
+      "translation_AUDIO_WA_LL": "kare, weitā",
+      "translation_MC_2_LL": "kare wa gakusei desu.",
+      "translation_phrase_LL": "kanojo| wa| gakusei| desu.",
+      "translation_phrase_UIL": "she's a student"
+    },
+    "name": "LL-1-1a-phrase_1",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_2",
+    "_originalId": "grammarPhrase_2",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "2",
+    "grammarPhraseIllustration": {
+      "_ref": "term_20",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P2.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_LL": "kanojo wa, kare",
+      "translation_LL_WA_UIL": "she's, tourist",
+      "translation_phrase_LL": "[kare wa] sensei desu.",
+      "translation_phrase_UIL": "he’s a teacher."
+    },
+    "name": "LL-1-1a-phrase_2",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_3",
+    "_originalId": "grammarPhrase_3",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "3",
+    "grammarPhraseIllustration": {
+      "_ref": "term_30",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P3.wav"
+        }
+      },
+      "translation_LL_WA_UIL": "doctor, teacher, dog",
+      "translation_MC_2_LL": "watashi wa isha desu.",
+      "translation_UI_FIB_WORDS_LL": "kanojo, kare",
+      "translation_phrase_LL": "[watashi wa] kankōkyaku| desu.",
+      "translation_phrase_UIL": "I'm a tourist."
+    },
+    "name": "LL-1-1a-phrase_3",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_4",
+    "_originalId": "grammarPhrase_4",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "4",
+    "grammarPhraseIllustration": {
+      "_ref": "term_40",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P4.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_LL": "watashi, watashi wa, kare",
+      "translation_UI_FIB_WORDS_LL": "watashi, watashi wa, kare",
+      "translation_UI_WA_LL": "watashi, watashi wa, kare",
+      "translation_phrase_LL": "[kare wa]| weitā| desu.",
+      "translation_phrase_UIL": "he's a waiter."
+    },
+    "name": "LL-1-1a-phrase_4",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_5",
+    "_originalId": "grammarPhrase_5",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "5",
+    "grammarPhraseIllustration": {
+      "_ref": "term_50",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1A-P5.wav",
+          "_type": "reference"
+        }
+      },
+      "translation_AUDIO_WA_LL": "inu, kare",
+      "translation_UI_FIB_WORDS_LL": "gakusei, kankōkyaku",
+      "translation_UI_WA_LL": "inu, kare",
+      "translation_phrase_LL": "kanojo [wa| isha| desu].",
+      "translation_phrase_UIL": "she's a doctor."
+    },
+    "name": "LL-1-1a-phrase_5",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarSection_2",
+    "_originalId": "grammarSection_2",
+    "_rev": "",
+    "_type": "grammarSection",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "coverImage": {
+      "_ref": "term_7262",
+      "_type": "reference"
+    },
+    "grammarSectionId": "2",
+    "localizedNameField": {
+      "_type": "localeGrammarSectionString",
+      "translation_grammarSection_UIL": "Say what somebody is politely"
+    },
+    "localizedRuleAnswerField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "using a name"
+    },
+    "localizedRuleContrastSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_LL": "_Watanabe-san_ wa bengoshi desu.",
+      "translation_grammarLesson_UIL": ""
+    },
+    "localizedRuleExampleSentenceField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_LL": "_kanojo_ wa bengoshi desu.",
+      "translation_grammarLesson_UIL": ""
+    },
+    "localizedRuleField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "To be polite, add a title like _-san_ to people's _names_ - but never your own name!|It's more common to use 'person's name+title' instead of the word _anata_ (you) when talking to someone directly.|To keep our sentences simple, we will use _anata_ to mean 'you' in this course."
+    },
+    "localizedRuleQuestionField": {
+      "_type": "localeGrammarLessonString",
+      "translation_grammarLesson_UIL": "Why do you think we use _-san_ in just one of the sentences?"
+    },
+    "name": "-1a",
+    "phrasesReference": [
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_6",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_7",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_8",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_9",
+        "_type": "reference"
+      },
+      {
+        "_key": "",
+        "_ref": "grammarPhrase_10",
+        "_type": "reference"
+      }
+    ],
+    "status": "productionReady",
+    "topicReference": {
+      "_ref": "",
+      "_type": "reference"
+    }
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_6",
+    "_originalId": "grammarPhrase_6",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "1",
+    "grammarPhraseIllustration": {
+      "_ref": "term_10",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P1.wav"
+        }
+      },
+      "translation_AUDIO_WA_LL": "jōshi, anata",
+      "translation_MC_2_LL": "anata wa bengoshi desu.",
+      "translation_phrase_LL": "Maria|-san| wa| bengoshi| desu.",
+      "translation_phrase_UIL": "Maria is a lawyer."
+    },
+    "name": "LL-1-1b-phrase_1",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_7",
+    "_originalId": "grammarPhrase_7",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "2",
+    "grammarPhraseIllustration": {
+      "_ref": "term_20",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P2.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_LL": "-san, jimuin",
+      "translation_LL_WA_UIL": "Takeshi",
+      "translation_phrase_LL": "[anata| wa]| ryōrinin desu.",
+      "translation_phrase_UIL": "You’re a cook."
+    },
+    "name": "LL-1-1b-phrase_2",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_8",
+    "_originalId": "grammarPhrase_8",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "3",
+    "grammarPhraseIllustration": {
+      "_ref": "term_30",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P3.wav"
+        }
+      },
+      "translation_LL_WA_UIL": "he, lawyer",
+      "translation_MC_2_LL": "kare wa jōshi desu",
+      "translation_UI_FIB_WORDS_LL": "kare",
+      "translation_phrase_LL": "[Watanabe|-san] wa jōshi desu.",
+      "translation_phrase_UIL": "Watanabe is a boss."
+    },
+    "name": "LL-1-1b-phrase_3",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "MC_2",
+        "_type": "tag",
+        "label": "MC-2",
+        "value": "MC_2"
+      },
+      {
+        "_key": "LL_WA",
+        "_type": "tag",
+        "label": "LL WA",
+        "value": "LL_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_9",
+    "_originalId": "grammarPhrase_9",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "4",
+    "grammarPhraseIllustration": {
+      "_ref": "term_40",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P4.wav"
+        }
+      },
+      "translation_Audio_Fib_Words_LL": "-san",
+      "translation_UI_FIB_WORDS_LL": "-san, haiyū",
+      "translation_UI_WA_LL": "-san",
+      "translation_phrase_LL": "[watashi| wa| jimuin]| desu.",
+      "translation_phrase_UIL": "I’m an office worker."
+    },
+    "name": "LL-1-1b-phrase_4",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "Audio_Fib_Words",
+        "_type": "tag",
+        "label": "Audio Fib Words",
+        "value": "Audio_Fib_Words"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  },
+  {
+    "_createdAt": "",
+    "_id": "grammarPhrase_10",
+    "_originalId": "grammarPhrase_10",
+    "_rev": "",
+    "_type": "grammarPhrase",
+    "_updatedAt": "",
+    "availableLanguages": [
+      {
+        "_key": "LL",
+        "_type": "tag",
+        "label": "Japanese",
+        "value": "LL"
+      }
+    ],
+    "grammarPhraseId": "5",
+    "grammarPhraseIllustration": {
+      "_ref": "term_50",
+      "_type": "reference"
+    },
+    "localizedGrammarPhraseField": {
+      "_type": "localeGrammarPhrase",
+      "audio_LL": {
+        "_type": "file",
+        "asset": {
+          "_ref": "1B-P5.wav",
+          "_type": "reference"
+        }
+      },
+      "translation_AUDIO_WA_LL": "watashi",
+      "translation_UI_FIB_WORDS_LL": "watashi",
+      "translation_UI_WA_LL": "watashi",
+      "translation_phrase_LL": "[Takeshi|-san]| wa bengoshi desu.",
+      "translation_phrase_UIL": "Takeshi is a lawyer."
+    },
+    "name": "LL-1-1b-phrase_5",
+    "status": "productionReady",
+    "supportedGameTypes": [
+      {
+        "_key": "AUDIO_WA",
+        "_type": "tag",
+        "label": "Audio WA",
+        "value": "AUDIO_WA"
+      },
+      {
+        "_key": "UI_WA",
+        "_type": "tag",
+        "label": "UI WA",
+        "value": "UI_WA"
+      },
+      {
+        "_key": "UI_FIB_WORDS",
+        "_type": "tag",
+        "label": "UI Fib Words",
+        "value": "UI_FIB_WORDS"
+      }
+    ]
+  }
+]
