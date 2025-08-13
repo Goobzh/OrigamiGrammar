@@ -65,8 +65,8 @@
     },
     "localizedRuleContrastSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "kare _wa_ gakusei _desu_.",
-      "translation_grammarLesson_UIL": "he's a student."
+      "translation_grammarLesson_LL": "Kare _wa_ gakusei _desu_.",
+      "translation_grammarLesson_UIL": "He's a student."
     },
     "localizedRuleExampleSentenceField": {
       "_type": "localeGrammarLessonString",
@@ -418,12 +418,12 @@
     "localizedRuleContrastSentenceField": {
       "_type": "localeGrammarLessonString",
       "translation_grammarLesson_LL": "_Watanabe-san_ wa bengoshi desu.",
-      "translation_grammarLesson_UIL": ""
+      "translation_grammarLesson_UIL": "Watanabe is a lawyer."
     },
     "localizedRuleExampleSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "_kanojo_ wa bengoshi desu.",
-      "translation_grammarLesson_UIL": ""
+      "translation_grammarLesson_LL": "_Kanojo_ wa bengoshi desu.",
+      "translation_grammarLesson_UIL": "She's a lawyer."
     },
     "localizedRuleField": {
       "_type": "localeGrammarLessonString",
