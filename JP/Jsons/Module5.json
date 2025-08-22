@@ -1,8 +1,8 @@
 [
   {
     "_createdAt": "",
-    "_id": "grammarModule_1",
-    "_originalId": "grammarModule_1",
+    "_id": "grammarModule_5",
+    "_originalId": "grammarModule_5",
     "_rev": "",
     "_type": "grammarModule",
     "_updatedAt": "",
@@ -14,7 +14,7 @@
         "value": "LL"
       }
     ],
-    "grammarModuleId": "1",
+    "grammarModuleId": "5",
     "grammarSections": [
       {
         "_key": "",
@@ -29,7 +29,7 @@
     ],
     "localizedNameField": {
       "_type": "localeGrammarModuleString",
-      "translation_grammarModule_UIL": "Make your first sentence"
+      "translation_grammarModule_UIL": "Talk about what you see and do"
     },
     "name": "LL-1",
     "sort": 1,
@@ -57,31 +57,31 @@
     "grammarSectionId": "1",
     "localizedNameField": {
       "_type": "localeGrammarSectionString",
-      "translation_grammarSection_UIL": "Say what a person is"
+      "translation_grammarSection_UIL": "Talk about what someone does"
     },
     "localizedRuleAnswerField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_UIL": "structure of the sentence"
+      "translation_grammarLesson_UIL": "person (I, he, she...)"
     },
     "localizedRuleContrastSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "Kare _wa_ gakusei _desu_.",
-      "translation_grammarLesson_UIL": "he's a student."
+      "translation_grammarLesson_LL": "Kare wa niku o _tabemasu_.",
+      "translation_grammarLesson_UIL": "He eats meat."
     },
     "localizedRuleExampleSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "gakusei",
-      "translation_grammarLesson_UIL": "student"
+      "translation_grammarLesson_LL": "Watashi wa niku o _tabemasu_.",
+      "translation_grammarLesson_UIL": "I eat meat."
     },
     "localizedRuleField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_UIL": "In Japanese, you start your sentence with your main topic: the 'what' or 'who' you'll be talking about. You put _wa_ after it to mark it - words like these are called particles.|Next, you make your statement and put _desu_ after. This makes the sentence polite and acts like the verb 'to be' (am, is, are)."
+      "translation_grammarLesson_UIL": "Japanese action words have a polite form that ends in _-masu_.|Unlike in English, this doesn’t change depending on who does the action. |The action words go at the end of the sentence. You don’t need desu after."
     },
     "localizedRuleQuestionField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_UIL": "Why do you think _wa_ is added after _kare_?"
+      "translation_grammarLesson_UIL": "What do you think? The action word form doesn't change despite..."
     },
-    "name": "LL-1a",
+    "name": "LL-5A",
     "phrasesReference": [
       {
         "_key": "",
@@ -140,15 +140,15 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1A-P1.wav"
+          "_ref": "5A-P1.wav"
         }
       },
-      "translation_AUDIO_WA_LL": "kare, weitā",
-      "translation_MC_2_LL": "kare wa gakusei desu.",
-      "translation_phrase_LL": "kanojo| wa| gakusei| desu.",
-      "translation_phrase_UIL": "she's a student."
+      "translation_AUDIO_WA_LL": "kēki",
+      "translation_MC_2_LL": "kohī wa oishii desu ka?",
+      "translation_phrase_LL": "anata wa kohī| o| nomimasu| ka?",
+      "translation_phrase_UIL": "do you drink coffee?"
     },
-    "name": "LL-1-1a-phrase_1",
+    "name": "LL-1-5A-phrase_1",
     "status": "productionReady",
     "supportedGameTypes": [
       {
@@ -190,15 +190,15 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1A-P2.wav"
+          "_ref": "5A-P2.wav"
         }
       },
-      "translation_Audio_Fib_Words_LL": "kanojo wa, kare",
-      "translation_LL_WA_UIL": "she's, tourist",
-      "translation_phrase_LL": "[kare wa]| sensei desu.",
-      "translation_phrase_UIL": "he’s a teacher."
+      "translation_Audio_Fib_Words_LL": "desu, o shimasu",
+      "translation_LL_WA_UIL": "you, j-pop",
+      "translation_phrase_LL": "watashi wa terebi [o mimasu].",
+      "translation_phrase_UIL": "I watch TV."
     },
-    "name": "LL-1-1a-phrase_2",
+    "name": "LL-1-5A-phrase_2",
     "status": "productionReady",
     "supportedGameTypes": [
       {
@@ -240,16 +240,16 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1A-P3.wav"
+          "_ref": "5A-P3.wav"
         }
       },
-      "translation_LL_WA_UIL": "doctor, teacher, dog",
-      "translation_MC_2_LL": "watashi wa isha desu.",
-      "translation_UI_FIB_WORDS_LL": "kanojo, kare wa",
-      "translation_phrase_LL": "[watashi wa] kankōkyaku desu.",
-      "translation_phrase_UIL": "I'm a tourist."
+      "translation_LL_WA_UIL": "read, book",
+      "translation_MC_2_LL": "Akari-san wa nani o shimasu ka?",
+      "translation_UI_FIB_WORDS_LL": "desu, ongaku",
+      "translation_phrase_LL": "Akari-san wa [shukudai| o| shimasu]| ka?",
+      "translation_phrase_UIL": "Does Akari do the homework?"
     },
-    "name": "LL-1-1a-phrase_3",
+    "name": "LL-1-5A-phrase_3",
     "status": "productionReady",
     "supportedGameTypes": [
       {
@@ -297,16 +297,16 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1A-P4.wav"
+          "_ref": "5A-P4.wav"
         }
       },
-      "translation_Audio_Fib_Words_LL": "watashi, kanojo",
-      "translation_UI_FIB_WORDS_LL": "watashi, kanojo",
-      "translation_UI_WA_LL": "watashi, kanojo",
-      "translation_phrase_LL": "[kare| wa]| weitā| desu.",
-      "translation_phrase_UIL": "he's a waiter."
+      "translation_Audio_Fib_Words_LL": "desu, terebi",
+      "translation_UI_FIB_WORDS_LL": "desu, terebi",
+      "translation_UI_WA_LL": "desu, terebi",
+      "translation_phrase_LL": "Tanaka-san wa hon [o| yomimasu].",
+      "translation_phrase_UIL": "Tanaka reads books."
     },
-    "name": "LL-1-1a-phrase_4",
+    "name": "LL-1-5A-phrase_4",
     "status": "productionReady",
     "supportedGameTypes": [
       {
@@ -354,17 +354,17 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1A-P5.wav",
+          "_ref": "5A-P5.wav",
           "_type": "reference"
         }
       },
-      "translation_AUDIO_WA_LL": "inu, kare",
-      "translation_UI_FIB_WORDS_LL": "gakusei, kankōkyaku",
-      "translation_UI_WA_LL": "inu, kare",
-      "translation_phrase_LL": "kanojo| [wa| isha| desu].",
-      "translation_phrase_UIL": "she's a doctor."
+      "translation_AUDIO_WA_LL": "nani, nomimasu",
+      "translation_UI_FIB_WORDS_LL": "nani, nomimasu",
+      "translation_UI_WA_LL": "nani, nomimasu",
+      "translation_phrase_LL": "anata wa jei poppu o [kikimasu| ka]?",
+      "translation_phrase_UIL": "do you listen to j-pop?"
     },
-    "name": "LL-1-1a-phrase_5",
+    "name": "LL-1-5A-phrase_5",
     "status": "productionReady",
     "supportedGameTypes": [
       {
@@ -409,31 +409,31 @@
     "grammarSectionId": "2",
     "localizedNameField": {
       "_type": "localeGrammarSectionString",
-      "translation_grammarSection_UIL": "Say what somebody is politely"
+      "translation_grammarSection_UIL": "Say “there is”"
     },
     "localizedRuleAnswerField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_UIL": "using a name"
+      "translation_grammarLesson_UIL": "living and non-living things"
     },
     "localizedRuleContrastSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "_Watanabe-san_ wa bengoshi desu.",
-      "translation_grammarLesson_UIL": "Watanabe is a lawyer."
+      "translation_grammarLesson_LL": "Kuruma _ga arimasu_.",
+      "translation_grammarLesson_UIL": "There’s a car."
     },
     "localizedRuleExampleSentenceField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_LL": "_Kanojo_ wa bengoshi desu.",
-      "translation_grammarLesson_UIL": "She is lawyer."
+      "translation_grammarLesson_LL": "Neko _ga imasu_.",
+      "translation_grammarLesson_UIL": "There’s a cat."
     },
     "localizedRuleField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_UIL": "To be polite, add a title like _-san_ to people's _names_ - but never your own name!|It's more common to use 'person's name+title' instead of the word _anata_ (you) when talking to someone directly.|To keep our sentences simple, we will use _anata_ to mean 'you' in this course."
+      "translation_grammarLesson_UIL": "To say “there is”, you use ga + arimasu/imasu.|You use ‘imasu’ with living things, and ‘arimasu’ with non-living things."
     },
     "localizedRuleQuestionField": {
       "_type": "localeGrammarLessonString",
-      "translation_grammarLesson_UIL": "Why do you think we use _-san_ in just one of the sentences?"
+      "translation_grammarLesson_UIL": "Why do you think the last word changes?"
     },
-    "name": "-1a",
+    "name": "-5A",
     "phrasesReference": [
       {
         "_key": "",
@@ -492,15 +492,15 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1B-P1.wav"
+          "_ref": "5B-P1.wav"
         }
       },
-      "translation_AUDIO_WA_LL": "jōshi, anata",
-      "translation_MC_2_LL": "anata wa bengoshi desu.",
-      "translation_phrase_LL": "Maria|-san| wa| bengoshi| desu.",
-      "translation_phrase_UIL": "Maria is a lawyer."
+      "translation_AUDIO_WA_LL": "imasu, desu",
+      "translation_MC_2_LL": "kanojo ga imasu ka?",
+      "translation_phrase_LL": "shitsumon [ga| arimasu| ka]?",
+      "translation_phrase_UIL": "are there any questions?"
     },
-    "name": "LL-1-1b-phrase_1",
+    "name": "LL-1-5B-phrase_1",
     "status": "productionReady",
     "supportedGameTypes": [
       {
@@ -542,15 +542,15 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1B-P2.wav"
+          "_ref": "5B-P2.wav"
         }
       },
-      "translation_Audio_Fib_Words_LL": "-san, jimuin",
-      "translation_LL_WA_UIL": "Takeshi",
-      "translation_phrase_LL": "[anata| wa]| ryōrinin desu.",
-      "translation_phrase_UIL": "You’re a cook."
+      "translation_Audio_Fib_Words_LL": "arimasu, niwa",
+      "translation_LL_WA_UIL": "that's",
+      "translation_phrase_LL": "[inu| ga| imasu].",
+      "translation_phrase_UIL": "there's a dog."
     },
-    "name": "LL-1-1b-phrase_2",
+    "name": "LL-1-5B-phrase_2",
     "status": "productionReady",
     "supportedGameTypes": [
       {
@@ -592,16 +592,16 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1B-P3.wav"
+          "_ref": "5B-P3.wav"
         }
       },
-      "translation_LL_WA_UIL": "he, lawyer",
-      "translation_MC_2_LL": "kare wa jōshi desu",
-      "translation_UI_FIB_WORDS_LL": "kare",
-      "translation_phrase_LL": "[Watanabe|-san]| wa jōshi desu.",
-      "translation_phrase_UIL": "Watanabe is a boss."
+      "translation_LL_WA_UIL": "cat",
+      "translation_MC_2_LL": "neko ga imasu ka?",
+      "translation_UI_FIB_WORDS_LL": "imasu",
+      "translation_phrase_LL": "niwa ga [arimasu| ka]?",
+      "translation_phrase_UIL": "is there a garden?"
     },
-    "name": "LL-1-1b-phrase_3",
+    "name": "LL-1-5B-phrase_3",
     "status": "productionReady",
     "supportedGameTypes": [
       {
@@ -649,16 +649,16 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1B-P4.wav"
+          "_ref": "5B-P4.wav"
         }
       },
-      "translation_Audio_Fib_Words_LL": "-san",
-      "translation_UI_FIB_WORDS_LL": "-san, haiyū",
-      "translation_UI_WA_LL": "-san",
-      "translation_phrase_LL": "[watashi| wa| jimuin]| desu.",
-      "translation_phrase_UIL": "I’m an office worker."
+      "translation_Audio_Fib_Words_LL": "imasu, desu",
+      "translation_UI_FIB_WORDS_LL": "imasu, desu",
+      "translation_UI_WA_LL": "imasu, desu",
+      "translation_phrase_LL": "eakon [ga| arimasu].",
+      "translation_phrase_UIL": "there's an air conditioner."
     },
-    "name": "LL-1-1b-phrase_4",
+    "name": "LL-1-5B-phrase_4",
     "status": "productionReady",
     "supportedGameTypes": [
       {
@@ -706,17 +706,17 @@
       "audio_LL": {
         "_type": "file",
         "asset": {
-          "_ref": "1B-P5.wav",
+          "_ref": "5B-P5.wav",
           "_type": "reference"
         }
       },
-      "translation_AUDIO_WA_LL": "watashi",
-      "translation_UI_FIB_WORDS_LL": "watashi",
-      "translation_UI_WA_LL": "watashi",
-      "translation_phrase_LL": "[Takeshi|-san]| wa haiyū desu.",
-      "translation_phrase_UIL": "Takeshi is an actor."
+      "translation_AUDIO_WA_LL": "imasu, desu",
+      "translation_UI_FIB_WORDS_LL": "imasu, desu",
+      "translation_UI_WA_LL": "imasu, desu",
+      "translation_phrase_LL": "jikan [ga| arimasu| ka]?",
+      "translation_phrase_UIL": "is there time?"
     },
-    "name": "LL-1-1b-phrase_5",
+    "name": "LL-1-5B-phrase_5",
     "status": "productionReady",
     "supportedGameTypes": [
       {
