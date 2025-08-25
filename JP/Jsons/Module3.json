@@ -144,7 +144,7 @@
         }
       },
       "translation_AUDIO_WA_LL": "genkina",
-      "translation_MC_2_LL": "genkina",
+      "translation_MC_2_LL": "kanojo wa genkina hito desu.",
       "translation_phrase_LL": "watashi wa| genki| desu.",
       "translation_phrase_UIL": "I'm fine."
     },
@@ -596,7 +596,7 @@
         }
       },
       "translation_LL_WA_UIL": "not",
-      "translation_MC_2_LL": "sono hito wa [totemo| yasashii] desu.",
+      "translation_MC_2_LL": "sono hito wa yasashii desu ka?",
       "translation_UI_FIB_WORDS_LL": "shizukana",
       "translation_phrase_LL": "sono hito wa [totemo| yasashii] desu.",
       "translation_phrase_UIL": "That person is very nice."

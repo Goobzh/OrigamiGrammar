@@ -144,7 +144,7 @@
         }
       },
       "translation_AUDIO_WA_LL": "anata, desu",
-      "translation_MC_2_LL": "Tanaka-san wa keisatsukan desu",
+      "translation_MC_2_LL": "Tanaka-san wa keisatsukan desu.",
       "translation_phrase_LL": "Tanaka|-san| wa| keisatsukan| dewa| arimasen.|",
       "translation_phrase_UIL": "Tanaka is not a policeman."
     },
@@ -496,7 +496,7 @@
         }
       },
       "translation_AUDIO_WA_LL": "desu",
-      "translation_MC_2_LL": "desu",
+      "translation_MC_2_LL": "anata wa nihonjin desu.",
       "translation_phrase_LL": "anata| wa| nihonjin| desu ka?",
       "translation_phrase_UIL": "are you Japanese?"
     },
@@ -596,7 +596,7 @@
         }
       },
       "translation_LL_WA_UIL": "she, ",
-      "translation_MC_2_LL": "desu ka",
+      "translation_MC_2_LL": "kare wa isha desu ka?",
       "translation_UI_FIB_WORDS_LL": "desu ka",
       "translation_phrase_LL": "kare wa isha [desu].",
       "translation_phrase_UIL": "he is a doctor."

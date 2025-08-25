@@ -144,7 +144,7 @@
         }
       },
       "translation_AUDIO_WA_LL": "neko, ka",
-      "translation_MC_2_LL": "neko, ka",
+      "translation_MC_2_LL": "Samu wa gakusei desu.",
       "translation_phrase_LL": "[watashi| no] namae wa Samu desu.",
       "translation_phrase_UIL": "My name is Sam."
     },
@@ -656,7 +656,7 @@
       "translation_UI_FIB_WORDS_LL": "o, kudasai",
       "translation_UI_WA_LL": "o, kudasai",
       "translation_phrase_LL": "katsudon [wa| totemo| oishii] desu!",
-      "translation_phrase_UIL": "katsudon is very delicious!"
+      "translation_phrase_UIL": "the cutlet bowl is very delicious!"
     },
     "name": "LL-1-4B-phrase_4",
     "status": "productionReady",
